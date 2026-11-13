@@ -1,4 +1,4 @@
-# QQ Music plugin for MyGo Music
+# QQ Music plugin for MyGo Music听书版
 
 在 MyGo Music 的“设置 > 插件”中，通过右上角“+ > 从文件夹…”选择 `dist` 文件夹安装。
 
